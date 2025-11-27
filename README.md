@@ -138,12 +138,22 @@ Tecnología utilizada:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ass190-ua&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ass190-ua&layout=compact&theme=github_dark" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=ass190-ua&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ass190-ua&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ass190-ua&theme=github-dark-blue" />
+  <img
+    width="60%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=ass190-ua&theme=github-dark-blue&hide_border=true"
+  />
 </p>
 
 ---

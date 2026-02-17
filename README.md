@@ -105,6 +105,21 @@ El objetivo principal es aplicar principios de diseño y buenas prácticas en el
 
 ---
 
+### 🧊 FridgeAI – Tu Chef Inteligente con IA
+**Repositorio:** [https://github.com/ass190-ua/FridgeAI](https://github.com/ass190-ua/FridgeAI)
+
+Aplicación móvil innovadora desarrollada con **React Native (Expo)** que utiliza la **IA de Google Gemini** para generar recetas personalizadas basándose en los ingredientes que tienes en tu nevera.
+
+Aspectos técnicos destacados:
+* Integración con **Gemini AI API** para la generación dinámica de contenido (recetas).
+* Backend con **Supabase** para autenticación de usuarios, base de datos y almacenamiento de avatares.
+* Gestión de estado global y preferencias (Modo Oscuro/Claro, Internacionalización ES/EN).
+* Manejo de restricciones alimentarias (alergias y dietas) en los prompts de la IA.
+
+Tecnologías: **TypeScript, React Native, Expo, Supabase, Gemini AI**.
+
+---
+
 ### 🍣 SushiCounter – App móvil Android (Proyecto personal)  
 **Repositorio:** https://github.com/ass190-ua/SushiCounter
 

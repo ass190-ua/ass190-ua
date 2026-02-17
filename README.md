@@ -152,11 +152,16 @@ Tecnología utilizada:
 
 ## 📊 Actividad reciente en GitHub
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ass190-ua&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/ass190-ua">
+    <img align="left" width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=ass190-ua&show_icons=true&theme=github_dark&hide_border=true&locale=es&hide_rank=true" alt="Estadísticas de Arturo" />
+  </a>
+  <a href="https://github.com/ass190-ua">
+    <img align="right" width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ass190-ua&layout=compact&theme=github_dark&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  </a>
+</div>
+<br clear="all">
+<br>
 
 ---
 
